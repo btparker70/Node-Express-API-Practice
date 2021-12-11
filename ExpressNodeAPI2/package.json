@@ -1,0 +1,16 @@
+{
+  "name": "expressnodeapi2",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=k-j0W0UDnWY&t=110s",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
